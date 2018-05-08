@@ -11,5 +11,9 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
+<<<<<<< HEAD
 *.xcworkspace
 Content/Arrows/Projectile_BaseClass.uasset
+=======
+*.xcworkspace
+>>>>>>> parent of cead10b... asd
